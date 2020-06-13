@@ -18,4 +18,4 @@ My improving plan for this project is to use animation, grid areas.
 
 [This is link on future website](https://github.com "It's funny!")
 
-@lena-aiu :+1: This  looks great - it's ready to review! :earth_asia:
+@lena-aiu :+1:  This  looks great - it's ready to review! :earth_asia:
