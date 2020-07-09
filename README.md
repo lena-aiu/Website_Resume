@@ -16,6 +16,6 @@ On this website you'll see:
 
 My improving plan for this project is to use animation, grid areas.
 
-[This is link on future website](https://github.com "It's funny!")
+[This is link on future website](https://lena-aiu.github.io/Website_Resume/ "Enjoy!")
 
 @lena-aiu :+1:    This  looks great - it's ready to review!  :earth_asia:
